@@ -1,0 +1,6 @@
+#restable {
+	border-collapse: collapse;
+}
+#restable td {
+	width: 150px;
+}
